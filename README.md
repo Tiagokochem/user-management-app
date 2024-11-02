@@ -99,5 +99,5 @@ docker compose down
 
 ## 📸 Imagem do Sistema
 
-<img src="https://github.com/user-attachments/assets/a27b847c-a51f-4752-b178-979bc7d04aa7" alt="Imagem do Sistema de Gerenciamento de Usuários" width="600"/>
+![Imagem do Sistema de Gerenciamento de Usuários](https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/caminho/para/sua-imagem.png)
 
