@@ -99,5 +99,5 @@ docker compose down
 
 ## 📸 Imagem do Sistema
 
-![Alt text](https://github-production-user-asset-6210df.s3.amazonaws.com/57450432/382481306-7c8bd45a-71aa-4bb4-b49a-53cdd793da81.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241102%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241102T150608Z&X-Amz-Expires=300&X-Amz-Signature=01c41867fc4e125b469ad65e2534179da064fd89ebad9871824e68f20ade4ef2&X-Amz-SignedHeaders=host)
+![Screenshot_3](https://github.com/user-attachments/assets/791ef6f5-cabc-4f6e-8a76-65d472cff091)
 
