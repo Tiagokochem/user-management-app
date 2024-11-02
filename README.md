@@ -99,5 +99,5 @@ docker compose down
 
 ## 📸 Imagem do Sistema
 
-![Alt text](https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/caminho/para/sua-imagem.png)
+![Screenshot_3](https://github.com/user-attachments/assets/7c8bd45a-71aa-4bb4-b49a-53cdd793da81)
 
