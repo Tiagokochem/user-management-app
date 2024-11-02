@@ -62,7 +62,7 @@ user-management-app/
 ### Passo 1: Clonar o Repositório
 
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/Tiagokochem/user-management-app
 cd user-management-app/src
 
 
