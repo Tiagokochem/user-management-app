@@ -16,15 +16,15 @@ Este é um sistema de gerenciamento de usuários simples, desenvolvido em PHP e 
 
 user-management-app/
 ├── src/
-│   ├── index.php # Página principal (listagem de usuários)
-│   ├── add_user.php # Página para adicionar um novo usuário
-│   ├── edit_user.php # Página para editar um usuário existente
-│   ├── delete_user.php # Página para excluir um usuário
-│   ├── search_user.php # Página para busca de usuários
-│   └── uploads/ # Pasta para armazenar fotos de usuários
-├── docker-compose.yml # Arquivo Docker Compose para configurar o ambiente
-├── Dockerfile # Dockerfile para configurar o container PHP
-└── init.sql # Script SQL para criação da tabela de usuários no banco de dados
+│   ├── index.php
+│   ├── add_user.php
+│   ├── edit_user.php
+│   ├── delete_user.php
+│   └── search_user.php
+├── uploads/
+├── docker-compose.yml
+└── Dockerfile
+
 
 ---
 
@@ -96,3 +96,8 @@ docker compose down
 📌 Notas Persistência de Dados: O volume do banco de dados é configurado para persistir dados entre reinicializações do container. Uploads de Fotos: As fotos dos usuários são salvas na pasta uploads dentro da pasta src.
 
 ⚠️ Problemas Comuns Se os containers não iniciarem corretamente, certifique-se de que o Docker está configurado para executar containers Linux. Verifique se não há conflitos de porta, especialmente com a porta 8080.
+
+## 📸 Imagem do Sistema
+
+<img src="https://github.com/user-attachments/assets/a27b847c-a51f-4752-b178-979bc7d04aa7" alt="Imagem do Sistema de Gerenciamento de Usuários" width="600"/>
+
